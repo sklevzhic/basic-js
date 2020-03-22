@@ -3,7 +3,7 @@ module.exports = function transform(arr) {
         throw new Error();
     };
 
-    console.log(arr)
+    // console.log(arr)
 
 
     for (let i = 0; i <= arr.length; i++) {
